@@ -59,11 +59,6 @@ Your app will be running at: `http://localhost:5173`
 
 ---
 
-## 📸 Screenshot
-![Quote Generator Preview](#) *(Add an image link here)*
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit a PR or open an issue. 🚀
 
