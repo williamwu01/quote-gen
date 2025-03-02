@@ -1,3 +1,84 @@
+
+# 📜 Quote Generator
+
+A simple **Quote Generator** that fetches and displays random quotes from the [NinjaAPI](https://api-ninjas.com/api/quotes). Users can refresh the quote with a button click.
+
+---
+
+## ✨ Features
+- 🔄 Fetches random quotes from the NinjaAPI
+- 📝 Displays the quote, author, and category
+- 🎨 Clean and minimal UI
+- ⚡ Refresh button to get a new quote
+
+---
+
+## 🚀 Live Demo
+[🔗 View Project](#) *(Add your deployment link here)*
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React.js (Vite) ⚛️
+- **Styling:** CSS / Tailwind *(Optional)* 🎨
+- **API:** [NinjaAPI - Quotes](https://api-ninjas.com/api/quotes) 🌍
+
+---
+
+## 📥 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/quote-generator.git
+cd quote-generator
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Set Up Environment Variables
+Create a `.env` file in the root folder and add:
+```bash
+VITE_API_KEY=your_ninja_api_key_here
+```
+
+### 4️⃣ Run the App
+```bash
+npm run dev
+```
+Your app will be running at: `http://localhost:5173`
+
+---
+
+## 📌 Usage
+- Open the app
+- Read the displayed quote
+- Click **"Refresh Quote"** to get a new one
+
+---
+
+## 📸 Screenshot
+![Quote Generator Preview](#) *(Add an image link here)*
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a PR or open an issue. 🚀
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 Support
+If you like this project, please ⭐ **star the repo**! 😊
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
